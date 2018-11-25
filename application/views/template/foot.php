@@ -2,8 +2,8 @@
 </div><!-- /.content-wrapper -->
 <footer class="main-footer">
     <div class="pull-right hidden-xs">
-        <b>Version</b> 3.0
+        <b>Sio | Heru | Alber</b>
     </div>
-    <strong>Copyright &copy; 2015 SHINRA.</strong> All rights reserved.
+    <strong>Aplikasi Perpustakaan Digital Menggunakan DRM System</strong> dengan Sistem Rekomendasi MFCM Berbasis mobile dan web.
 </footer>
 </div><!-- ./wrapper -->

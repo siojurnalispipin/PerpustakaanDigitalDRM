@@ -65,21 +65,23 @@
                                 </div>
                             </form>
                         </div>
-                        <?php if (!empty($alert)){ ?>
+                        <?php if (!empty($alert)) { ?>
                             <div class='alert alert-danger alert-error'>
                                 <a href='#' class='close' data-dismiss='alert'>&times;</a>
                                 <center>
                                     <?php echo $alert; ?>
                                 </center>
                             </div>
-                            <?php } elseif (!empty($success)) { ?>
+                            <?php 
+                        } elseif (!empty($success)) { ?>
                             <div class='alert alert-success'>
                                 <a href='#' class='close' data-dismiss='alert'>&times;</a>
                                 <center>
                                     <?php echo $success; ?>
                                 </center>
                             </div>
-                            <?php }	?>
+                            <?php 
+                        } ?>
                         </div>
                     </div>
                 </div>
